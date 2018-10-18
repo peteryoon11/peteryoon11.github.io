@@ -28,6 +28,7 @@ category: algorithm
     - python 코드는 3.x에서 동작 합니다. 
     - 해당 알고리즘책은 아래와 같습니다. 
     - BFS => Breadth-first search
+
 ### Reference
 * [Hello Coding 그림으로 개념을 이해하는 알고리즘](https://book.naver.com/bookdb/book_detail.nhn?bid=11823284) - 한빛 미디어
 
@@ -75,7 +76,9 @@ search("you")
 - 목표는 m 으로 끝나는 사람을 찾는 겁니다. 
     - 해당 조건은 취향에 맞춰서 바꿀수 있습니다. 
 - 책에서는 그림으로 보여 주었지만 방향성이 따로 없다는 것 으로 생각 했을때 tree 형태로 보여줘도 문제 없다고 판단되어서 아래와 같이 그림으로 대체 합니다. 
+
 * * *
+
 |![treeForBFS](/assets/images/static/2018-10-18/bfsTreeArchi.png){: width="50%" height="50%"}|
 - python 에서는 간단하게 hash table (map)을 만듭니다.
 
