@@ -89,7 +89,9 @@ GitHub: [https://github.com/peteryoon11](https://github.com/peteryoon11)
     * Used Lang : golang , python(Flask), Express(Nodejs)
     * DB : Sqlite3 
     * flow  : 
-        * |![simple_archi](/assets/images/static/archiflow/simpleapi/testAPI_System_Architecture.png){: width="50%" height="50%"}|
+        |![simple_archi](/assets/images/static/archiflow/simpleapi/testAPI_System_Architecture.png){: width="70%" height="70%"}|
+
+        * [flow_link](https://github.com/peteryoon11/simplybookInfoAPI/blob/master/flowchart/testAPI_System_Architecture.png)  
     * [https://github.com/peteryoon11/simplybookInfoAPI](https://github.com/peteryoon11/simplybookInfoAPI)
     * [https://github.com/peteryoon11/simplyBookInfoAPIPython](https://github.com/peteryoon11/simplyBookInfoAPIPython)
     * [https://github.com/peteryoon11/simplyBookInfoAPINodejs](https://github.com/peteryoon11/simplyBookInfoAPINodejs)
