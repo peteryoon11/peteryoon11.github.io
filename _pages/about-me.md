@@ -88,6 +88,8 @@ GitHub: [https://github.com/peteryoon11](https://github.com/peteryoon11)
 * API의 이해를 위한 간단한 실습 들 \| 2018.09 - 2018. 09
     * Used Lang : golang , python(Flask), Express(Nodejs)
     * DB : Sqlite3 
+    * architecture : 
+        * |![simple_archi](/assets/static/archiflow/simpleapi/testAPI_System_Architecture.png){: width="50%" height="50%"}|
     * [https://github.com/peteryoon11/simplybookInfoAPI](https://github.com/peteryoon11/simplybookInfoAPI)
     * [https://github.com/peteryoon11/simplyBookInfoAPIPython](https://github.com/peteryoon11/simplyBookInfoAPIPython)
     * [https://github.com/peteryoon11/simplyBookInfoAPINodejs](https://github.com/peteryoon11/simplyBookInfoAPINodejs)
