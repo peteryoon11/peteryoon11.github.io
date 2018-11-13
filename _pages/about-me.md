@@ -9,7 +9,7 @@ comments: false
 E-MAIL: [yjisub11@gmail.com](mailto:yjisub11@gmail.com)  
 GitHub: [https://github.com/peteryoon11](https://github.com/peteryoon11)  
     
-이제 막 2년차에 접어든 주니어 백엔드 개발자 로 보이는 오래된 경력자
+이제 막 2년차에 접어든 주니어 백엔드 개발자 이지만 이것저것 경험이 많은 개발자.
 * 군대에서의 경험 때문에 먼 타지에서 근무하다가 다시 대학교의 전공을 찾아 돌아 왔습니다. 
 * Pycon 2017 의 슬로건(Back to the Basic)에 감명 받아서 시간이 날때 마다 기초를 다시 확인합니다.
 * 개발자의 정년은 더 이상 배우기 싫을 때 라고 생각 합니다. 
@@ -22,7 +22,7 @@ GitHub: [https://github.com/peteryoon11](https://github.com/peteryoon11)
 
 ## Skill Set
 * Language : JAVA, C++, golang, PHP , C# . ASP, Nodejs 
-* Framework : Spring , CI(PHP)
+* Framework : Spring , CI(PHP) 
 * DB : MySQL, MongoDB
 
 ## Career & Experience
