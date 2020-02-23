@@ -22,11 +22,54 @@ GitHub: [https://github.com/peteryoon11](https://github.com/peteryoon11)
 
 ## Skill Set
 * Language : JAVA, C++, golang, PHP , C# . ASP, Nodejs 
-* Framework : Spring , CI(PHP) 
-* DB : MySQL, MongoDB
+* Framework : Spring , CI(PHP) , express
+* server : private IDC , AWS 
+* DB : MySQL, MongoDB , Oracle , postgresql, redis 
 
 ## Career & Experience
-* NimbusNetworks \| Back-End Developer \| 2017.06.28 - 2018.09.07
+* LINKSHOPS \| Back-End Developer \| 2019.07 - 현재
+    
+    * 관리자 페이지 API 개발  \| 2019.12 - 2020.02
+        1. B2C 
+            a. 주문상세 
+            b. 환불 
+        2. 종합매출 
+        * spec  
+        * F/W :  express
+        * Lang : nodejs 
+        * DB :  postgresql , redis
+        * server : AWS 
+
+    * 바이어웹  마이페이지 서비스 API 개발 \| 2019.08 - 2020.01
+        i. B2B 
+        ii.B2C 
+        iii. 사용자 정보 
+        * spec  
+        * F/W :  express
+        * Lang : nodejs 
+        * DB :  postgresql , redis
+        * server : AWS 
+
+
+    * 바이어웹 공지사항 변경 \| 2019.07 - 2019.07
+    사용자가 읽은 공지사항의 인덱스를 쿠키에 저장, 이전에 읽은 공지사항은 추가로 나오지 않게 함. 한 계정에 여러 사용자가 사용 중.
+        * spec  
+        * F/W :  react
+        * Lang : nodejs 
+        * DB :  postgresql , redis
+        * server : AWS 
+
+* ALTICAST \| Back-End Developer \| 2018.10 - 2019.06
+    * 사용 기간이 만료된 미디어 데이터의 메타 데이터를 삭제 해서 더 이상 CDN에 올라가지 않게 하는 batch 프로그램 \| 2019.02 - 2019.06
+        * spec  
+        * F/W : spring boot 1.5  
+        * Lang : java 8
+    * IPTV 상의 서버 쿠폰코인 서비스 개발 및 유지보수 \| 2018.10 - 2019.06
+        * F/W : spring boot 1.5  
+        * Lang : java 8 
+        * DB : Oracle 
+
+* NimbusNetworks \| Back-End Developer \| 2017.06 - 2018.09
     *  Intelligent streaming monitor \| 2018.07 - 2018.09
         * 지능형 스트리밍 모니터를 구현 하기 위한 자료 조사 및 테스트
         * Used Lang : golang , RUST 
